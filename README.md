@@ -1,3 +1,8 @@
+I prefer use i18n insed of inline strings :) I would also add unit tests to app i i will have more tome to do it :)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
