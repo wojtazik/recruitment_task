@@ -35,6 +35,10 @@ module.exports = {
     'import/no-default-export': 'off',
     'no-use-before-define': 'off',
     '@typescript-eslint/no-use-before-define': 'off',
+    '@typescript-eslint/no-unused-vars': 'off',
+    '@typescript-eslint/no-unsafe-assignment': 'off',
+
+    'no-console': 'warn',
     'eslint-comments/no-unused-disable': 'error',
     'import/order': [
       'error',
@@ -52,7 +56,6 @@ module.exports = {
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
     'import/prefer-default-export': 'off',
 
-    'no-console': 'error',
     'react/jsx-props-no-spreading': 'off',
   },
 };
